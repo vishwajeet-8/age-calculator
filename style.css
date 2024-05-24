@@ -1,0 +1,54 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  grid-template-rows: 95vh 1fr;
+  height: 100vh;
+}
+
+.main {
+  background-color: pink;
+  height: 327px;
+  width: 240px;
+  border-radius: 5% 5% 25% 5%;
+  display: grid;
+  grid-template-rows: 91px 71px 1fr;
+  align-items: center;
+  padding: 16px;
+}
+
+.dayMonthYearInput {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.inputClass {
+  display: grid;
+}
+
+.day {
+  width: 40px;
+}
+
+.month {
+  width: 40px;
+}
+
+.year {
+  width: 80px;
+}
+
+.arrow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.line {
+  width: 70%;
+}
