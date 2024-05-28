@@ -9,7 +9,7 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [Github URL here](https://github.com/vishwajeet-8/age-calculator.git)
-- Live Site URL: [Netlify URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify URL here](https://radiant-pothos-f38275.netlify.app/)
 
 ### Built with
 
